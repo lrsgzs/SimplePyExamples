@@ -1,9 +1,9 @@
 # PySide6 with PyGame
 > 把 PyGame 嵌入 PySide6
 
-1. Install Requirements
+1. 安装依赖
 
     `pip install -r requirements.txt`
 
-2. Run `main.py`
-3. Enjoy playing PyGame in PySide6!
+2. 运行 `main.py` 进行测试
+3. 享受在 PySide6 里玩 PyGame 吧！
